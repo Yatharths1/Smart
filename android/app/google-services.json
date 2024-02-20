@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985062927",
+    "project_id": "fir-mart-app-29c70",
+    "storage_bucket": "fir-mart-app-29c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985062927:android:1e0e9af878ea042bac8d7a",
+        "android_client_info": {
+          "package_name": "com.iitj.smartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985062927-7j5hog51tpiq41uod8re1esn2m7ule50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9kRDARAbuOJOg4PoZGkUbK048FpUCOf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985062927-7j5hog51tpiq41uod8re1esn2m7ule50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
